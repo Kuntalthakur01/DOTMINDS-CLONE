@@ -1,1 +1,1 @@
-# Replica-of-dotminds-website
+# Replica-of-Dotminds-website
