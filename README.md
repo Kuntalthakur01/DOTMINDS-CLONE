@@ -12,6 +12,8 @@ https://github.com/Kuntalthakur01/Replica-of-dotminds-website/assets/80209678/07
 ## Mr. Nir Jakharia
 
 
+
+
 ### [ Dotminds official website](https://www.dotminds.in/)
 
 
