@@ -1,3 +1,13 @@
+
+# Preview 
+
+
+
+https://github.com/Kuntalthakur01/Replica-of-dotminds-website/assets/80209678/0788b3a2-bc60-42c6-8392-bb99d5c8b6ee
+
+
+
+
 # Guidance
 ## Mr. Nir Jakharia
 
