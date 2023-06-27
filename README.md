@@ -57,6 +57,8 @@ original DotMinds website. Status The project is currently complete as
 it serves its purpose as a demonstration of my front-end development
 skills. There may be minor updates or changes in the future. 
 
-Please note: This is not the official DotMinds website. If you have any
+Please note: 
+
+This is not the official DotMinds website. If you have any
 inquiries related to DotMinds, please contact them directly.
 
